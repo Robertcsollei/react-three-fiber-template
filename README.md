@@ -4,11 +4,11 @@ A lightweight starter for 3D web apps, built on Vite, React Three Fiber, TypeScr
 Includes a minimal testing setup and sane defaults so you can focus on building, not bootstrapping.
 
 ## ✨ Features
-⚡️ Fast dev environment with Vite
-🧩 Ready-to-use React Three Fiber scene setup
-💎 MUI styling and theming configured
-🔧 Vitest + Testing Library for unit tests
-🧱 TypeScript with strict types and clean structure
+- ⚡️ Fast dev environment with Vite
+- 🧩 Ready-to-use React Three Fiber scene setup
+- 💎 MUI styling and theming configured
+- 🔧 Vitest + Testing Library for unit tests 
+- 🧱 TypeScript with strict types and clean structure
 
 ## 🚀 Getting started
 ```
@@ -22,11 +22,11 @@ Open http://localhost:5173
  and you’ll see the default 3D scene.
 
 ## 🧠 Structure
-src/
- ├─ components/   # React + R3F components
- ├─ scenes/       # 3D scenes and helpers
- ├─ tests/        # Vitest specs
- └─ main.tsx      # app entry
+- src/
+-  ├─ components/   # React + R3F components
+-  ├─ scenes/       # 3D scenes and helpers
+-  ├─ tests/        # Vitest specs
+-  └─ main.tsx      # app entry
 
 ## 🧪 Run tests
 ```
