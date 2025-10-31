@@ -23,9 +23,11 @@ Open http://localhost:5173
 
 ## 🧠 Structure
 - src/
+-  ├─ assets/       # assets
 -  ├─ components/   # React + R3F components
 -  ├─ scenes/       # 3D scenes and helpers
 -  ├─ tests/        # Vitest specs
+-  ├─ utils/        # helper functions
 -  └─ main.tsx      # app entry
 
 ## 🧪 Run tests
